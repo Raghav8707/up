@@ -1,0 +1,18 @@
+
+html{
+	min-height:100vh;
+}
+body{
+	background:url("images/inventory.jpg");
+	padding:10px 20px;
+	background-size:cover;
+	min-height:100%;
+	font-size:18px;
+	display:flex;
+	flex-flow:column;
+	align-items:center;
+}
+.formI{
+display:flex;
+padding:10px;
+}
